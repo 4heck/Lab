@@ -1,1 +1,1 @@
-# Lab
+# Java + JDBC + PostgeSQL
